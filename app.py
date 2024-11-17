@@ -7,7 +7,7 @@ import os
 
 # Paths
 repo_path ='.'
-model_path = 'best.pt'
+model_path = 'yolov5_best.pt'
 # Define paths
 repo_path = 'C:/Users/91868/tennis_analysis/yolov5'  
 # Local path to YOLOv5 repository
